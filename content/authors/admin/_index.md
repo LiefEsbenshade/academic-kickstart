@@ -36,10 +36,10 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/williamlief
+  link: https://github.com/LiefEsbenshade
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/lief-esbenshade-45a24519/
+  link: https://www.linkedin.com/in/liefesbenshade/
 superuser: true
 user_groups:
 - Researchers
